@@ -38,27 +38,6 @@ The project uses the **MovieLens 100k dataset**, which includes:
 - **Surprise Library**: For collaborative filtering with SVD.
 - **Pandas and NumPy**: For data preprocessing and manipulation.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/enhanced-movie-recommender.git
-   cd enhanced-movie-recommender
-   ```
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Place the MovieLens dataset files (`u.data`, `u.item`, `u.user`) in the project directory.
-
-## Usage
-1. Run the script:
-   ```bash
-   python enhanced_recommender.py
-   ```
-2. Follow the prompts:
-   - Enter your age.
-   - Rate a subset of recommended movies.
-   - View personalized recommendations based on your feedback.
 
 ## Example Workflow
 1. Enter your age: `29`
